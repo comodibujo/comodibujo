@@ -1,0 +1,21 @@
+/* body{
+    background-color: rgb(248, 176, 229);
+} */
+.imagen{
+    width: 350px;
+}
+.imagen2{
+    width: 310px;
+}
+.ojo1{
+    width: 330px;
+}
+.ojo2{
+    width: 230px;
+}
+.ojo3{
+    width: 230px;
+}
+#section1{
+    display: grid;
+}
